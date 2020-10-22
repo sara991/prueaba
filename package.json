@@ -1,0 +1,28 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sara991/prueaba.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sara991/prueaba/issues"
+  },
+  "homepage": "https://github.com/sara991/prueaba#readme"
+}
